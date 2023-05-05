@@ -21,7 +21,6 @@ function parseAndDisplayName(fullName) {
     console.log("Last name: " + lastName);
   }
   
-  // Example usage:
   parseAndDisplayName("Stephen Strange");
   parseAndDisplayName("Bruce Banner");
   
